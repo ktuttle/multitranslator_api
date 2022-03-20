@@ -1,0 +1,21 @@
+.DS_store
+.coverage
+.noseids
+*.xml
+.build
+
+# PyCharm files
+.idea
+
+# Compiled python source files
+*.pyc
+__pycache__
+
+# Emacs backup files
+*~
+
+# Testing temporary files
+*.cache.txt
+
+# Virtualenv
+venv*/
